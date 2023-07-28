@@ -1,0 +1,24 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "demoReactBind",
+    "environment": "spo",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart",
+    "template": "react",
+    "componentName": "demo",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.14.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.4",
+    "libraryName": "demo-react-bind",
+    "libraryId": "34bcaea2-ee3c-404c-9c52-e86923d501dd",
+    "packageManager": "npm",
+    "solutionShortDescription": "demoReactBind description"
+  }
+}

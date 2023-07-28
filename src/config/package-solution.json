@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "demo-react-bind-client-side-solution",
+    "id": "34bcaea2-ee3c-404c-9c52-e86923d501dd",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "demoReactBind description"
+      },
+      "longDescription": {
+        "default": "demoReactBind description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "demo-react-bind Feature",
+        "description": "The feature that activates elements of the demo-react-bind solution.",
+        "id": "a6c9d440-42b5-473a-8d70-8669431ce806",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/demo-react-bind.sppkg"
+  }
+}
