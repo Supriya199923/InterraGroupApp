@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table th,
+  table td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* Add a different background color for even and odd rows (optional) */
+  table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
